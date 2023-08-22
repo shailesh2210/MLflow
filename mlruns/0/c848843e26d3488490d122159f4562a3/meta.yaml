@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLops/MLflow/mlruns/0/c848843e26d3488490d122159f4562a3/artifacts
+end_time: 1692701499746
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c848843e26d3488490d122159f4562a3
+run_name: sneaky-moth-218
+run_uuid: c848843e26d3488490d122159f4562a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692701478806
+status: 3
+tags: []
+user_id: shailesh
